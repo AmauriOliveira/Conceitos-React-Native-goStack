@@ -1,4 +1,4 @@
-  ![banner](https://i.imgur.com/r52O4rf.png)
+  ![banner](https://i.imgur.com/JFROpm7.png)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=alert_status)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=bugs)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
